@@ -15,5 +15,5 @@ git add .    // A fájlok hozzáadása a staging areahoz
 git commit -m "app.js fájl módosítása: Betöltődéskor kiírja, hogy az oldal sikeresen betöltődött"    // Verzió rögzítés
 git add .    // A fájlok hozzáadása a staging areahoz
 git commit -m "style.css fájl módosítása: Háttér színátmenet megváltoztatása"
-git remote set-url origin https://github.com/hatamas/git-vizsga.git
-git push -u origin console
+git remote set-url origin https://github.com/hatamas/git-vizsga.git    // Remote repository beállítása
+git push -u origin console    // Feltöltés
