@@ -16,3 +16,4 @@ git commit -m "app.js fájl módosítása: Betöltődéskor kiírja, hogy az old
 git add .    // A fájlok hozzáadása a staging areahoz
 git commit -m "style.css fájl módosítása: Háttér színátmenet megváltoztatása"
 git remote set-url origin https://github.com/hatamas/git-vizsga.git
+git push -u origin console
